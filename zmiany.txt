@@ -2,3 +2,5 @@ edycja pliku tekstowego
 
 edycja pliku tekstowego 1
 edycja pliku tekstowego 2
+
+edycja pliku tekstowego 3
